@@ -1,10 +1,10 @@
-### Go Crontab
-##### Introduction
+# Go Crontab
+### Introduction
 GoCrontab is like linux crontab, and it is for doing repeating jobs for every certain amount of time.
 
 It is easy to use, because the timer rule is same to linux crontab.
 #
-##### How to use?
+### How to use?
 ````
 // Install the package
 go get github.com/ChangsongLiQD/gocrontab
@@ -37,7 +37,7 @@ func main(){
 }
 ````
 
-##### Timer rule?
+### Timer rule?
 
 Example of job definition:
 ````
